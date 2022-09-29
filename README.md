@@ -1,2 +1,2 @@
-# UFC
-Conteúdos estudados durante o curso de Sistema de Informação na Universidade Federal do Ceará
+# FUP
+Conteúdos estudados durante a disciplina de Fundamentos de Programação na Universidade Federal do Ceará
