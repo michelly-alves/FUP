@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652750071 source:c:\users\michelly\documents\projetos\04\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1652750192 source:c:\users\michelly\documents\projetos\lista 4\04\main.c
+	<stdio.h>
+	<stdlib.h>
+
