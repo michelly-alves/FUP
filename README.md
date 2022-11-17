@@ -1,2 +1,2 @@
 # FUP
-Conteúdos estudados durante a disciplina de Fundamentos de Programação na Universidade Federal do Ceará
+Conteúdo estudado durante a disciplina de Fundamentos de Programação utilizando a linguagem C na Universidade Federal do Ceará
